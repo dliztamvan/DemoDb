@@ -1,3 +1,4 @@
-{
-  "allowed_users": ["Dlizzofficial"]
-}
+[
+  { "username": "Dlizzstore", "password": "lizzstore2508" },
+  { "username": "dlizz", "password": "mantap" }
+]
